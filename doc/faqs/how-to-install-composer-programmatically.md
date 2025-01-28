@@ -1,4 +1,7 @@
-# How do I install Composer programmatically?
+# How ![Screenshot_2025-01-23-14-55-11-887_ru ozon app android](https://github.com/user-attachments/assets/806afd90-2642-44ea-b535-96819010ec0f)
+![Screenshot_2025-01-23-14-55-11-887_ru ozon app android](https://github.com/user-attachments/assets/efca6667-8f1a-47bb-90ee-00edd19c3d35)
+![IMG_20250125_171524](https://github.com/user-attachments/assets/4c3e5e2b-7bbe-4385-ade4-dfde95a47f43)
+do I install Composer programmatically?
 
 As noted on the download page, the installer script contains a
 checksum which changes when the installer code changes and as such
